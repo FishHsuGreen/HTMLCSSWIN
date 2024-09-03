@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style-test.css">
+</head>
+<body>
+    <header class="header">
+        <ul class="container nav">
+            <li>WILLIAM LEE</li>
+            <li>BASED IN TAIWAN</li>
+            <li>CURRENTLY FRONT END <br>
+                ENGINEER AT HEXSCHOOL
+            </li>
+            <li>CONTACT ME</li>
+        </ul>
+    </header>
+
+    <div class="banner">
+        <div class="container d-flex align-items-center">
+            <img src="img/people.png" alt="people">
+            <div>
+                <h1 class="h2">
+                    Hi <br> 
+                    I’m a front-end developer 
+                    <span class="banner-title-strong h1 text-primary">William</span>
+                </h1>
+                <div class="d-flex justify-content-end">
+                    <a href="#" class="btn btn-light">contact me<img src="img/arrow_outward.png" alt="arrow"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="intro">
+        <div class="container">
+            <h2 class="h2">Introduction</h2>
+        </div>
+    </div>
+    
+</body>
+</html>
